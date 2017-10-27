@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+.vierkant1 {
+     width: 150px;
+     height: 150px;
+     background-color: red;
+     bottom: 0;
+     left: 0;
+     position: absolute;
+ }
+
+.vierkant2 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
+
+.vierkant3 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.vierkant4 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+.vierkant5 {
+    width: 10%;
+    height: 10%;
+    background-color: red;
+    bottom: 40%;
+    top: 40%;
+    left: 44%;
+    position: fixed;
+}
+
+.vierkant6 {
+    width: 60%;
+    height: 50%;
+    background-color: blue;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 45%;
+    position: absolute;
+}

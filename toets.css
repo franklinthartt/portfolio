@@ -1,0 +1,59 @@
+header  {
+    width: 960px;
+    height: 20px;
+    background-color: black;
+}
+
+.eerste{
+    width: 600px;
+    height: 400px;
+    background-color: peachpuff;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    z-index: 1;
+}
+
+.tweede {
+    width: 360px;
+    height: 400px;
+    background-color: grey;
+    display: inline-block;
+    text-align: center;
+    z-index: 2;
+
+}
+
+.derde{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;
+    z-index: 3;
+    text-align: center;
+
+}
+
+footer{
+    background-color: red;
+    float: left;
+    width: 960px;
+    height: 20px;
+
+}
+
+nav{
+    margin: 0 auto;
+    display: inline-block;
+
+
+}
+
+nav ul{
+    margin: 0 auto;
+    display: inline-block;
+}
+nav ul li{
+    margin: 0 auto;
+    display: inline-block;
+}

@@ -1,0 +1,68 @@
+.container {
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    width: 1160px;
+    height: 100px;
+    background-color: gray;
+}
+
+header > img {
+    height: 100px;
+    width: 760px;
+}
+
+nav {
+    float: left;
+    background-color: purple;
+    width: 200px;
+    height: 600px;
+}
+
+main {
+    float: left;
+    background-color: yellow;
+    width: 760px;
+    height: 600px;
+}
+
+article
+{
+    width: 500px;
+    height: 200px;
+}
+article > header
+{
+    width: 500px;
+    height 50px;
+    background-color: green;
+}
+article > footer
+{
+    width: 500px;
+    height 50px;
+    background-color: aqua;
+
+}
+aside {
+    float: left;
+    background-color: green;
+    width: 200px;
+    height: 600px
+}
+
+footer {
+    clear: both;
+    background-color: brown;
+    width: 1160px;
+    height: 100px
+}
+
+h1
+{
+    display: none;
+}
+
